@@ -1,3 +1,6 @@
+
+/*FORM CSS*/
+/*SOURCE: https://www.w3schools.com/howto/howto_css_contact_form.asp*/
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%; /* Full width */
@@ -31,6 +34,9 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+
+
+/*REMAINING CSS*/
 body{
     padding:5vw;
     background-color:slategray;

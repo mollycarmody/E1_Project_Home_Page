@@ -1,3 +1,5 @@
+//
+//SOURCE for full page tab: https://www.w3schools.com/howto/howto_js_full_page_tabs.asp
 function openPage(pageName, elmnt, color) {
   // Hide all elements with class="tabcontent" by default */
   var i, tabcontent, tablinks;
